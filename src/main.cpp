@@ -1,8 +1,5 @@
 #include <iostream>
 
-// Workaround
-#include "lua5.3/lua.hpp"
-
 // Sol
 #include <sol/sol.hpp>
 
